@@ -1,6 +1,4 @@
-# The lovely elisr sticker 
-
-<img src='elisr.png' align="center" height="400" />
+# The lovely elisr sticker <img src='elisr.png' align="right" height="300"/>
 
 This repo contains the `elisr_vec.xcf` image, the code to reproduce the
 sticker, and the sticker itself. If you want to reproduce it, convert `*.xcf`
